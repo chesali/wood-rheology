@@ -1,5 +1,5 @@
 # Wood Rheology
-[![DOI](https://zenodo.org/badge/1137652679.svg)](https://doi.org/10.5281/zenodo.18303436)
+[![DOI](https://zenodo.org/badge/1137652679.svg)](https://zenodo.org/badge/latestdoi/1137652679)
 
 This repository allows for the exploration of rheological data of wood. It is linked to the research work **J. M. and Wittel, K. M. (2026). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Submitted to Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
 
