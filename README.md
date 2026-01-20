@@ -30,7 +30,7 @@ Create a Python 3.10.14 environment and install the packages in `requirements.tx
 Each notebook is designed that the widgets can be used by running the complete notebook via **"Restart Kernel and Run All"**. The experimental data points can be extracted from the tables in the folder *data*. For doing so, each widget has an "export" button that exports the data points of the current selection as CSV table.
 
 ## Authors and acknowledgment
-**Authors:** J. M. Maas (ORCID: ORCID: 0000-0001-5679-7352), F. K. Wittel (ORCID: 0000-0001-8672-5464)
+**Authors:** J. M. Maas (ORCID: 0000-0001-5679-7352), F. K. Wittel (ORCID: 0000-0001-8672-5464)
 
 **Please cite the following paper when using data from this repository:** Maas, J. M. and Wittel, K. M. (2026). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Submitted to Holzforschung/Wood Research and Technology*.
 
