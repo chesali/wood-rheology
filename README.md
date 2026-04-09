@@ -1,6 +1,6 @@
 # Wood Rheology
 
-This repository enables exploration of rheological data on wood. It is based on the research work of **J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
+This repository enables exploration of rheological data on wood. It is based on the research work of **Maas, J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
 
 ## Description
 
