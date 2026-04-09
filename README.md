@@ -48,7 +48,7 @@ Create a Python 3.10.14 environment and install the packages in `requirements.tx
 - Navigate to the repository and install packages: `pip3 install -r requirements.txt`
 - Launch Jupyter Lab: `jupyter lab`
 
-Alternatively, this repository can be run directly via RenkuLab at <https://renkulab.io/p/jomaas/interactive-exploration-of-wood-rheology>.
+Alternatively, this repository can be run directly via RenkuLab at <https://renkulab.io/p/jomaas/wood-rheology>.
 
 ## Usage
 
