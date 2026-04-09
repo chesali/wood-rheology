@@ -1,6 +1,6 @@
 # Wood Rheology
 
-This repository enables exploration of rheological data on wood. It is based on the research work of **J. M. and Wittel, K. M. (2026). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
+This repository enables exploration of rheological data on wood. It is based on the research work of **J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
 
 ## Description
 
@@ -48,6 +48,8 @@ Create a Python 3.10.14 environment and install the packages in `requirements.tx
 - Navigate to the repository and install packages: `pip3 install -r requirements.txt`
 - Launch Jupyter Lab: `jupyter lab`
 
+Alternatively, this repository can be run directly via RenkuLab at <https://renkulab.io/p/jomaas/wood-rheology>.
+
 ## Usage
 
 Each notebook is designed so that the widgets can be used by running the complete notebook via **"Restart Kernel and Run All"**. The experimental data points can be extracted from the tables in the folder *data*. For doing so, each widget has an "export" button that exports the data points of the current selection as a CSV table.
@@ -56,7 +58,7 @@ Each notebook is designed so that the widgets can be used by running the complet
 
 **Authors:** J. M. Maas (ORCID: 0000-0001-5679-7352), F. K. Wittel (ORCID: 0000-0001-8672-5464)
 
-**Please cite the following paper when using data from this repository:** Maas, J. M. and Wittel, K. M. (2026). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung*.
+**Please cite the following paper when using data from this repository:** Maas, J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung*.
 
 ## License
 
