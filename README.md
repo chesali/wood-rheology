@@ -1,13 +1,17 @@
-# Wood Rheology
+# Rheology data for Norway spruce
 
-This repository enables exploration of rheological data on wood. It is based on the research work of **Maas, J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung/Wood Research and Technology*.** Please cite this research publication when using data from this repository.
+This repository enables exploration of rheological data on wood. It is based on the following research works:
+- Maas, J.M. and Wittel, F.K. (2026) “From elasticity to creep: orthotropic moisture-dependent rheology of Norway spruce.” *Holzforschung*, 80(7), pp. 514–542. Available at: https://doi.org/10.1515/hf-2026-0009.
+- Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” Manuscript submitted to *Mechanics of Materials*.
+
+**Please cite the respective source when using data from this repository.** See the acknowledgement section for more information.
 
 ## Description
 
 The data of this repository comprises:
 
 - **Species:** Norway spruce
-- **Properties:** elasticity, strength, plasticity, viscoelasticity, hygroexpansion, sorption, density
+- **Properties:** elasticity, strength, plasticity, viscoelasticity, hygroexpansion, sorption, density, mechanosorption
 - **Anatomical directions:** compression/tension R, T, L; shear RT, TR, RL, LR, TL, LT
 - **Data format:** experimental data points in tables (in folder *data*), exploration of fitting data via widgets (in Jupyter notebooks)
 
@@ -38,6 +42,7 @@ This repository contains the following folders and files.
 - *03_plasticity.ipynb*: Allows for visualization and export of fits and experimental data points for the plastic deformations.
 - *04_viscoelasticity.ipynb*: Allows for visualization and export of fits and experimental data points for the viscoelasticity parameters, i.e., Kelvin-Voigt coefficients and fits of the time-moisture superposition principle.
 - *05_sorption.ipynb*: Visualizes the density distribution, hygroexpansion, and sorption isotherm of the tree from which the samples are obtained.
+- *06_mechanosorption.ipynb*: Allows for visualization and export of fits and experimental data for the mechanosorptive parameters, i.e., Kelvin-Voigt coefficients.
 
 ## Installation
 
@@ -58,7 +63,11 @@ Each notebook is designed so that the widgets can be used by running the complet
 
 **Authors:** J. M. Maas (ORCID: 0000-0001-5679-7352), F. K. Wittel (ORCID: 0000-0001-8672-5464)
 
-**Please cite the following paper when using data from this repository:** Maas, J. M. and Wittel, F. K. (in press). From Elasticity to Creep: Orthotropic moisture-dependent Rheology of Norway Spruce. *Holzforschung*.
+**Please cite the corresponding paper when using data from this repository:**
+- For data related to the notebooks *01_elasticity.ipynb*, *02_strength.ipynb*, *03_plasticity.ipynb*, *04_viscoelasticity.ipynb*, *05_sorption.ipynb*: Maas, J.M. and Wittel, F.K. (2026) “From elasticity to creep: orthotropic moisture-dependent rheology of Norway spruce.” *Holzforschung*, 80(7), pp. 514–542.
+- For data related to the notebook *06_mechanosorption.ipynb*: Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” Manuscript submitted to *Mechanics of Materials*.
+
+This work was financially supported by the Swiss National Science Foundation (SNSF grant 200021_192186, "Creep behavior of wood on multiple scales"), which we gratefully acknowledge.
 
 ## License
 
