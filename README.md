@@ -2,7 +2,7 @@
 
 This repository enables exploration of rheological data on wood. It is based on the following research works:
 - Maas, J.M. and Wittel, F.K. (2026) “From elasticity to creep: orthotropic moisture-dependent rheology of Norway spruce.” *Holzforschung*, 80(7), pp. 514–542. Available at: https://doi.org/10.1515/hf-2026-0009.
-- Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” Manuscript submitted to *Mechanics of Materials*.
+- Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” *engrXiv* preprint. Available at: https://doi.org/10.31224/8738
 
 **Please cite the respective source when using data from this repository.** See the acknowledgement section for more information.
 
@@ -65,7 +65,7 @@ Each notebook is designed so that the widgets can be used by running the complet
 
 **Please cite the corresponding paper when using data from this repository:**
 - For data related to the notebooks *01_elasticity.ipynb*, *02_strength.ipynb*, *03_plasticity.ipynb*, *04_viscoelasticity.ipynb*, *05_sorption.ipynb*: Maas, J.M. and Wittel, F.K. (2026) “From elasticity to creep: orthotropic moisture-dependent rheology of Norway spruce.” *Holzforschung*, 80(7), pp. 514–542.
-- For data related to the notebook *06_mechanosorption.ipynb*: Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” Manuscript submitted to *Mechanics of Materials*.
+- For data related to the notebook *06_mechanosorption.ipynb*: Maas, J.M. and Wittel, F.K. (2026) “Orthotropy of wood mechanosorption in Norway spruce.” *engrXiv* preprint. https://doi.org/10.31224/8738
 
 This work was financially supported by the Swiss National Science Foundation (SNSF grant 200021_192186, "Creep behavior of wood on multiple scales"), which we gratefully acknowledge.
 
